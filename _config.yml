@@ -80,23 +80,22 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Patrick Bryant"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  bio              : "Particle physicist specializing in high dimensional data driven modeling"
+  location         : "Pittsburgh, PA"
+  employer         : "Carnegie Mellon University"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "patrickbryant@me.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "patrick.e.bryant"
   foursquare       :
-  github           : "academicpages"
+  github           : "patrickbryant"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +108,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "patrickbryant_"
   vine             :
   weibo            :
   xing             :
