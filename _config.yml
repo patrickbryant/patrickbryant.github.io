@@ -85,12 +85,10 @@ author:
   bio              : "Particle physicist specializing in high dimensional data driven modeling"
   location         : "Pittsburgh, PA"
   employer         : "Carnegie Mellon University"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "patrickbryant@me.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   facebook         : "patrick.e.bryant"
   github           : "patrickbryant"
-  instagram        :
+  instagram        : "patrickbryant_"
   linkedin         :
   orcid            : "https://orcid.org/0000-0001-8145-6322"
   twitter          : "patrickbryant_"
