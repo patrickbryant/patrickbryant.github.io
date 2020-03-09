@@ -11,16 +11,24 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Particle Physics, University of Chicago, 2018
+* Ph.D in Particle Physics, University of Chicago, 2013 to 2018
   * Advisor: Melvin Shochet
-* M.S. in Physics, University of Chicago, 2014
-* B.S. in Physics, University of Oregon, 2013
+* M.S. in Physics, University of Chicago, 2013 to 2014
+* B.S. in Physics and Mathematics, University of Oregon, 2010 to 2013
   * Advisor: Eric Torrence
-* B.S. in Mathematics, University of Oregon, 2013
+
+
+Post-Graduate Research
+======
+High Granularity Calorimeter (HGCal) Module Assembly Center (MAC)
+------
+
+HGCal is an upgrade to the Compact Muon Solenoid (CMS) experiment endcap calorimeters. 
 
 Graduate Research
 ======
-Developement and Integration of the Fast TracKer (FTK)
+Developement and Integration of the Fast TracKer (FTK):
+------
 
 FTK is a highly parallelized system of custom hardware and firmware to reconstruct the tracks of charged particles for the ATLAS trigger system. I was instrumental in the design and development of the Auxiliary card (AUX) firmware as well as hardware testing and validation from early prototype stages to the final production. The AUX card performs the first stage of track fitting using 8 of the 12 layers of the inner detector and is a key performance driver of the whole system.
 
