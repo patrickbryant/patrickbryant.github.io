@@ -21,6 +21,11 @@ Education
 Post-Graduate Research
 ======
 
+As a postdoc at Carnegie Mellon University I have been focused on two primary projects which I outline here and detail later:
+* Data Analysis: I am one of the world's leading experts on high dimensional data-driven hadron collider background modeling. The goal of this work is to optimally extract information about the Higgs boson self-coupling from data taken at the Large Hadron Collider. This will require sub-percent level, high dimensional (from 16-D to more than 64-D) models of processes for which first principles simulation is intractible.
+* Hardware: CMU is one of five assembly centers responsible for the production of thousands of eight inch hexagonal silicon sensor modules for an upgrade to our experiment.
+
+
 High Granularity Calorimeter (HGCal) Module Assembly Center (MAC)
 ------
 

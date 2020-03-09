@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About Me"
+title                    : "Patrick Bryant"
 title_separator          : "-"
-name                     : &name "Patrick Bryant Ph.D."
-description              : &description "Particle physicist specializing in high dimensional data driven modeling"
+name                     : &name ""
+description              : &description ""
 url                      : https://patrickbryant.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "patrickbryant/patrickbryant.github.io"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Patrick Bryant"
+  name             : "Patrick Bryant Ph.D."
   avatar           : "defense.png"
   bio              : "Particle physicist specializing in high dimensional data driven modeling"
   location         : "Pittsburgh, PA"
