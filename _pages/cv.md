@@ -20,6 +20,7 @@ Education
 
 Post-Graduate Research
 ======
+
 High Granularity Calorimeter (HGCal) Module Assembly Center (MAC)
 ------
 
@@ -27,6 +28,7 @@ HGCal is an upgrade to the Compact Muon Solenoid (CMS) experiment endcap calorim
 
 Graduate Research
 ======
+
 Developement and Integration of the Fast TracKer (FTK):
 ------
 
