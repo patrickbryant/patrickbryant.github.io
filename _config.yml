@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Patrick Bryant Ph.D."
+title                    : "About Me"
 title_separator          : "-"
-name                     : &name "Patrick Bryant"
+name                     : &name "Patrick Bryant Ph.D."
 description              : &description "Particle physicist specializing in high dimensional data driven modeling"
 url                      : https://patrickbryant.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
