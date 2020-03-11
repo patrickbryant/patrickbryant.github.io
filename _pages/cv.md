@@ -92,19 +92,16 @@ Undergraduate Research
 
 Feasibility study of Higgs spin measurement using the tau lepton pair decay channel
 ------
-I studied the feasibility of measuring the spin and polarization of the Z and higgs bosons in single pion and 
-leptonic $\tau$ decays at the LHC using only the visible decay angles. The study was peformed at truth level using events simulated with PYTHIA8.
-* Recovered the spin and polarization of the higgs boson. \\
-* Validated the analysis with Z boson events. \\
-* Found that unfeasibly large statistics would be needed for a measurement at the LHC. \\
+I studied the feasibility of measuring the spin and polarization of the Z and Higgs bosons in single pion and leptonic tau decays at the LHC using only the visible decay angles. The study was peformed at truth level using events simulated with PYTHIA8.
+* Recovered the spin and polarization of the Higgs boson. 
+* Validated the analysis with Z boson events. 
+* Found that unfeasibly large statistics would be needed for a measurement at the LHC.
 
 International Linear Collider (ILC) beam energy monitor prototype testing
 ------
-The ILC beam energy could be measured by sending the beams downstream of the interaction point through a magnetic field and measuring
-the deflection. A single 64-anode PMT coupled to 64 fibers spaced out in an invar guide would allow for 
-low cost precision beam deflection measurements.
-* Performed characterization of the multi-anode PMT response. \\
-* Developed and automated linearity and cross-talk measurements. \\
+The ILC beam energy could be measured by sending the beams downstream of the interaction point through a magnetic field and measuring the deflection. A single 64-anode PMT coupled to 64 fibers spaced out in an invar guide would allow for low cost precision beam deflection measurements.
+* Performed characterization of the multi-anode PMT response. 
+* Developed and automated linearity and cross-talk measurements. 
 
 
 Teaching
