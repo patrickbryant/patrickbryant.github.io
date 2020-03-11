@@ -110,20 +110,37 @@ low cost precision beam deflection measurements.
 Teaching
 ======
 
-Carnegie Mellon University
-------
-* Guest lecturer, Undergraduate Astrophysics 2019. [Special Relativity from Velocity Addition](https://www.patrickbryant.page/files/relativity.pdf "relativity.pdf")
+* Carnegie Mellon University
+  * Guest lecturer, Undergraduate Astrophysics 2019. [The Geometry of Special Relativity from Velocity Addition](https://www.patrickbryant.page/files/relativity.pdf "relativity.pdf")
 
-University of Chicago
-------
-* Teaching Assistant/Lab Instructor, Undergraduate Physics 131 Mechanics, 2013
-* Teaching Assistant/Lab Instructor, Undergraduate Physics 132 Electricity and Magnetism, 2014 
-* Teaching Assistant, Graduate Physics 363 Particle Physics, 2015
-* Teaching Assistant, Undergraduate Physics 220 Introductory Math Methods, 2015 
+* University of Chicago
+  * Teaching Assistant/Lab Instructor, Undergraduate Physics 131 Mechanics, 2013
+  * Teaching Assistant/Lab Instructor, Undergraduate Physics 132 Electricity and Magnetism, 2014 
+  * Teaching Assistant, Graduate Physics 363 Particle Physics, 2015
+  * Teaching Assistant, Undergraduate Physics 220 Introductory Math Methods, 2015 
 
-University of Oregon
-------
-* Tutorial Instructor, Undergraduate Physics 201-203 Mechanics, Thermodynamics, Waves and Optics, 2013
+* University of Oregon
+  * Tutorial Instructor, Undergraduate Physics 201-203 Mechanics, Thermodynamics, Waves and Optics, 2013
 
 
+Awards and Honors
+======
 
+* Nathan Sugarman Award 2018
+  * University of Chicago, Enrico Fermi Institute
+  * A cash prize awarded anually to two graduate students of the Enrico Fermi Institute.
+  * "For his work in measuring the Higgs boson pair production cross section and his contributions to the new system of track reconstruction electronics for the ATLAS trigger."
+
+* Grainger Graduate Fellow 2017-2018
+  * A year long research fellowship awarded to two graduate students in the physics department per year.
+
+* Department Convocation Speaker 2013
+  * University of Oregon, Department of Physics
+
+* Weiser Undergraduate Research Prize 2013
+  * University of Oregon, Department of Physics
+  * A cash prize awarded to two students per year.
+
+* Clarence and Lucille Dunbar Scholarship 2012-2013
+  * University of Oregon, College of Arts and Sciences
+  * Awarded to high achieving undergraduate or graduate students in physical or behavioral sciences.
