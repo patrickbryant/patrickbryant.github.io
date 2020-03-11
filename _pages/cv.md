@@ -49,12 +49,12 @@ Search for Higgs pair production in the four b-jet final state
   * Improved top quark pair production background rejection and estimation.
   * Doubled sensitivity to standard model di-higgs production at fixed luminosity.
   * Enabled first sensitivity down to the kinematic threshold of twice the Higgs mass.
-* [link](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.94.052002 "2015 Paper in Physical Review D"):
+* [2015 Paper in Physical Review D](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.94.052002 "PhysRevD.94.052002"):
   * Set world record limit on SM di-higgs production.
-* [link](https://cds.cern.ch/record/2206131 "2016 International Conference of High Energy Physics Note")
+* [2016 International Conference of High Energy Physics Note](https://cds.cern.ch/record/2206131 "CDS 2206131")
   * Set new record limit on SM di-higgs production.
   * New limits on more inclusive phase space.
-* 2017 Paper ([link](https://cds.cern.ch/record/2644551/files/CERN-THESIS-2018-208.pdf "Thesis"), Paper version publlished in the Journal of High Energy Physics [link](https://link.springer.com/article/10.1007/JHEP01(2019)030 "JHEP"):
+* 2017 Paper ([Full thesis](https://cds.cern.ch/record/2644551/files/CERN-THESIS-2018-208.pdf "CDS CERN-THESIS-2018-208"), [Paper pubished in the Journal of High Energy Physics](https://link.springer.com/article/10.1007/JHEP01(2019)030 "JHEP01(2019)030"):
   * Improved background and trigger modeling techniques. 
 
 
