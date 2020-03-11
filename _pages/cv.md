@@ -53,15 +53,12 @@ Search for Higgs pair production in the four b-jet final state
 * [2016 International Conference of High Energy Physics Note](https://cds.cern.ch/record/2206131 "CDS 2206131")
   * Set new record limit on SM di-higgs production.
   * New limits on more inclusive phase space.
-* 2017 Paper ([Full thesis](https://cds.cern.ch/record/2644551/files/CERN-THESIS-2018-208.pdf "CDS CERN-THESIS-2018-208"), [Paper pubished in the Journal of High Energy Physics](https://link.springer.com/article/10.1007/JHEP01(2019)030 "JHEP01(2019)030"):
+* 2017 Paper (Primary result of [my dissertation](https://cds.cern.ch/record/2644551/files/CERN-THESIS-2018-208.pdf "CDS CERN-THESIS-2018-208"), paper published in the [Journal of High Energy Physics](https://link.springer.com/article/10.1007/JHEP01(2019)030 "JHEP01(2019)030"))
   * Improved background and trigger modeling techniques. 
 
 Machine Learning and b-tagging - SLAC Workshop, 2017
 ------
-I performed a preliminary study on the use of neural networks for reweighting data driven multijet background estimates.
-A deep neural net was trained to discriminate between events with differing numbers of b-tagged jets using only the event kinematics. 
-By reweighting the DNN output distribution of the lower b-tag data, a sample could be made to better approximate the kinematics of the higher b-tag sample.
-In principle this procedure should account for differences in kinematic correlations that would be incorrectly treated by one dimensional reweighting.
+I performed a preliminary study on the use of neural networks for reweighting data driven multijet background estimates. A deep neural net was trained to discriminate between events with differing numbers of b-tagged jets using only the event kinematics. By reweighting the DNN output distribution of the lower b-tag data, a sample could be made to better approximate the kinematics of the higher b-tag sample. In principle this procedure should account for differences in kinematic correlations that would be incorrectly treated by one dimensional reweighting.
 
 SUSY 2017 Conference Speaker - December 2017
 ------
