@@ -26,13 +26,37 @@ As a postdoc at Carnegie Mellon University I have been focused on two primary pr
 * Hardware: CMU is one of five assembly centers responsible for the production of thousands of eight inch hexagonal silicon sensor modules for an upgrade to our experiment.
 
 
+Multi-b-jet Background Modeling for Future Measurements of Higgs Boson Pair Production
+------
+
+This is an evolution of my doctoral research 
+
+
 High Granularity Calorimeter (HGCal) Module Assembly Center (MAC)
 ------
 
 HGCal is an upgrade to the Compact Muon Solenoid (CMS) experiment endcap calorimeters. 
 
+
 Graduate Research
 ======
+
+Search for Higgs pair production in the four b-jet final state
+------
+
+* Lead extension of analysis to low mass phase space:
+  * Reduction and modeling of multijet combinatoric background.
+  * Improved top quark pair production background rejection and estimation.
+  * Doubled sensitivity to standard model di-higgs production at fixed luminosity.
+  * Enabled first sensitivity down to the kinematic threshold of twice the Higgs mass.
+* [link](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.94.052002 "2015 Paper in Physical Review D"):
+  * Set world record limit on SM di-higgs production.
+* [link](https://cds.cern.ch/record/2206131 "2016 International Conference of High Energy Physics Note")
+  * Set new record limit on SM di-higgs production.
+  * New limits on more inclusive phase space.
+* 2017 Paper ([link](https://cds.cern.ch/record/2644551/files/CERN-THESIS-2018-208.pdf "Thesis"), Paper version publlished in the Journal of High Energy Physics [link](https://link.springer.com/article/10.1007/JHEP01(2019)030 "JHEP"):
+  * Improved background and trigger modeling techniques. 
+
 
 Developement and Integration of the Fast TracKer (FTK):
 ------
