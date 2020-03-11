@@ -79,3 +79,51 @@ FTK is a highly parallelized system of custom hardware and firmware to reconstru
 * Integration with ATLAS
   * Lead AUX installation and integration with ATLAS. 
   * Advised two graduate students on firmware design, testing and integration at CERN. 
+
+Search for black hole production in the multijet final state
+------
+* Worked on event selection optimization. 
+* One of the first 13 TeV results: [2015 LHCP conference note](https://cds.cern.ch/record/2048117 "CDS 2048117")
+* Paper on full 2015 dataset published in the [Journal of High Energy Physics](https://doi.org/10.1007/JHEP03(2016)026 "doi 10.1007").
+
+
+Undergraduate Research
+======
+
+Feasibility study of Higgs spin measurement using the tau lepton pair decay channel
+------
+I studied the feasibility of measuring the spin and polarization of the Z and higgs bosons in single pion and 
+leptonic $\tau$ decays at the LHC using only the visible decay angles. The study was peformed at truth level using events simulated with PYTHIA8.
+* Recovered the spin and polarization of the higgs boson. \\
+* Validated the analysis with Z boson events. \\
+* Found that unfeasibly large statistics would be needed for a measurement at the LHC. \\
+
+International Linear Collider (ILC) beam energy monitor prototype testing
+------
+The ILC beam energy could be measured by sending the beams downstream of the interaction point through a magnetic field and measuring
+the deflection. A single 64-anode PMT coupled to 64 fibers spaced out in an invar guide would allow for 
+low cost precision beam deflection measurements.
+* Performed characterization of the multi-anode PMT response. \\
+* Developed and automated linearity and cross-talk measurements. \\
+
+
+Teaching
+======
+
+Carnegie Mellon University
+------
+* Guest lecturer, Undergraduate Astrophysics 2019. [Special Relativity from Velocity Addition](https://www.patrickbryant.page/files/relativity.pdf "relativity.pdf")
+
+University of Chicago
+------
+* Teaching Assistant/Lab Instructor, Undergraduate Physics 131 Mechanics, 2013
+* Teaching Assistant/Lab Instructor, Undergraduate Physics 132 Electricity and Magnetism, 2014 
+* Teaching Assistant, Graduate Physics 363 Particle Physics, 2015
+* Teaching Assistant, Undergraduate Physics 220 Introductory Math Methods, 2015 
+
+University of Oregon
+------
+* Tutorial Instructor, Undergraduate Physics 201-203 Mechanics, Thermodynamics, Waves and Optics, 2013
+
+
+
