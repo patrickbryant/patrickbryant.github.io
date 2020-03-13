@@ -16,8 +16,7 @@ redirect_from:
 * B.S. in Physics and Mathematics, University of Oregon, 2010 to 2013
   * Advisor: Eric Torrence
 
-
-![272GeV](/images/272GeV.pdf){ width=50% }
+<img src="/images/272GeV.pdf" width="50%">
 
 ## Post-Graduate Research
 
