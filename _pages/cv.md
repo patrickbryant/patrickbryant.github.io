@@ -17,6 +17,7 @@ redirect_from:
   * Advisor: Eric Torrence
 
 
+![272GeV](/images/272GeV.pdf){ width=50% }
 
 ## Post-Graduate Research
 
