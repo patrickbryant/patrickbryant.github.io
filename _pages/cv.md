@@ -20,18 +20,10 @@ redirect_from:
 
 ## Post-Graduate Research
 
-As a postdoc at Carnegie Mellon University I have been focused on two primary projects which I outline here and detail later:
-* Data Analysis: I am one of the world's leading experts on high dimensional data-driven hadron collider background modeling. The goal of this work is to optimally extract information about the Higgs boson self-coupling from data taken at the Large Hadron Collider. This will require sub-percent level, high dimensional (from 16-D to more than 64-D) models of processes for which first principles simulation is intractible.
-* Hardware: CMU is one of five assembly centers responsible for the production of thousands of eight inch hexagonal silicon sensor modules for an upgrade to our experiment.
-
-### Multi-b-jet Background Modeling for Future Measurements of Higgs Boson Pair Production
-
-This is an evolution of my doctoral research 
-
-### High Granularity Calorimeter (HGCal) Module Assembly Center (MAC)
-
-HGCal is an upgrade to the Compact Muon Solenoid (CMS) experiment endcap calorimeters. 
-
+As a postdoc at Carnegie Mellon University I have been focused on two primary projects which I outline here:
+* Data Analysis: I am one of the world's leading experts on high dimensional data-driven hadron collider background modeling. The goal of this work is to optimally extract information about the Higgs boson self-coupling from data taken at the Large Hadron Collider. This will require sub-percent level, high dimensional (from 16-D to more than 64-D) models of processes for which first principles simulation is intractible. Publications for statisticians and physicists are both in progress.
+<br/><img src='/images/272GeV.pdf'>
+* Hardware: CMU is one of five assembly centers responsible for the production of thousands of eight inch hexagonal silicon sensor modules for an upgrade to our experiment. To get ready for production, I helped build two new clean room facilities and have recieved training to operate automated wirebonders and robotic assembly gantries. The technical design report for the project is available [here](https://cds.cern.ch/record/2293646 "CDS 2293646") for the interested reader.
 
 
 ## Graduate Research
