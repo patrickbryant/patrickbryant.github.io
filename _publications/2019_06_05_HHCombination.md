@@ -1,5 +1,5 @@
 ---
-title: "Combination of searches for Higgs boson pairs in proton-proton collisions at \\( \sqrt{\text{s}} \\) = 13 TeV with the ATLAS detector"
+title: "Combination of searches for Higgs boson pairs in proton-proton collisions at sqrt(s) = 13 TeV with the ATLAS detector"
 collection: publications
 permalink: /publication/2018-06-05-HHCombination
 excerpt: 'This letter presents the world record limit on Higgs boson pair production at the LHC. My doctoral research contributed significantly to this result.'
