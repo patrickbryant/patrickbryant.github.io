@@ -43,7 +43,9 @@ layout: default
         {% endif %}
         
              
-        {% if page.citation and page.paperurl %}
+	{% if page.arxiv and page.citation and page.paperurl %}
+	  <p>arXiv:<a href="https://arxiv.org/abs/{{ page.arxiv }}">{{ page.arxiv }}</a> <br>Citation: {{ page.citation }} <br><a href="{{ page.paperurl }}">{{ page.paperurl }}</a></p>
+        {% elsif page.citation and page.paperurl %}
           <p>Citation: {{ page.citation }} <br><a href="{{ page.paperurl }}">{{ page.paperurl }}</a></p>
         {% elsif page.citation %}
           <p>Citation: {{ page.citation }} </p>
