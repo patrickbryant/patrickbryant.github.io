@@ -52,16 +52,20 @@
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
 
-    
-    {% if post.arxiv and post.citation and post.paperurl %}
-      <p>arXiv:<a href="https://arxiv.org/abs/{{ post.arxiv }}">{{ post.arxiv }}</a> <br>Citation: {{ post.citation }} <br><a href="{{ post.paperurl }}">{{ post.paperurl }}</a></p>
-    {% elsif post.citation and post.paperurl %}
-      <p>Citation: {{ post.citation }} <br><a href="{{ post.paperurl }}">{{ post.paperurl }}</a></p>
-    {% elsif post.citation %}
-      <p>Citation: {{ post.citation }} </p>
-    {% elsif post.paperurl %}
-      <p>Download <a href=" {{ post.paperurl }} ">here</a></p>
+
+    <p>
+    {% if post.arxiv %}
+      arXiv:<a href="https://arxiv.org/abs/{{ post.arxiv }}">{{ post.arxiv }}</a><br>
     {% endif %}
+
+    {% if post.doi %}
+      DOI: <a href="{{ post.doi }}">{{ post.doi }}</a><br>
+    {% endif %}
+
+    {% if post.url %}
+      Download: <a href=" {{ post.url }} ">{{ post.url }}</a><br>
+    {% endif %}
+    </p>
 
   </article>
 </div>
