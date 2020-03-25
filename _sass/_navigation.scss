@@ -151,7 +151,7 @@
     }
 
     &.disabled {
-      color: mix(#fff, $black, 25%);
+      color: mix(#fff, $black, 75%);
       pointer-events: none;
       cursor: not-allowed;
     }
