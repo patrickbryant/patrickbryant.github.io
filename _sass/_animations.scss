@@ -4,18 +4,22 @@
 
 @-webkit-keyframes intro {
   0% {
-    opacity: 0;
+      opacity: 0;
+      color: $black
   }
   100% {
     opacity: 1;
+      color: $black
   }
 }
 
 @keyframes intro {
   0% {
     opacity: 0;
+    color: $black
   }
   100% {
     opacity: 1;
+    color: $black
   }
 }
