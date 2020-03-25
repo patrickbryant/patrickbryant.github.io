@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020-01-23-HHWhitePaper
 excerpt: 'This document summarises the current theoretical and experimental status of the di-Higgs boson production searches, and of the direct and indirect constraints on the Higgs boson self-coupling, with the wish to serve as a useful guide for the next years.'
 date: 2020-01-23
-venue: 'Submitted to Reviews in Physics'
+venue: 'Reviews in Physics (submission in progress)'
 arxiv: '1910.00012'
 citation: 'FERMILAB-CONF-19-468-E-T, LHCXSWG-2019-005'
 paperurl: 'https://arxiv.org/pdf/1910.00012.pdf'
