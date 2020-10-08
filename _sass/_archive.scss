@@ -66,10 +66,6 @@
   }
 }
 
-.archive__item-excerpt .toBeHidden {
-    display: none;
-}
-
 .archive__item-teaser {
   border-radius: $border-radius;
   overflow: hidden;
@@ -151,9 +147,6 @@
     .archive__item-excerpt {
       display: block;
       font-size: $type-size-6;
-    }
-    .archive__item-excerpt .toBeHidden {
-	display: none;
     }
   }
 }
