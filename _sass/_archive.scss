@@ -61,6 +61,10 @@
   margin-top: 0;
   font-size: $type-size-6;
 
+  .toBeHidden {
+      visibility: hidden;
+  }
+
   & + p {
     text-indent: 0;
   }
