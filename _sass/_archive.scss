@@ -61,13 +61,13 @@
   margin-top: 0;
   font-size: $type-size-6;
 
-  .toBeHidden {
-      display: none;
-  }
-
   & + p {
     text-indent: 0;
   }
+}
+
+.archive__item-excerpt .toBeHidden {
+    display: none;
 }
 
 .archive__item-teaser {
@@ -151,9 +151,9 @@
     .archive__item-excerpt {
       display: block;
       font-size: $type-size-6;
-      .toBeHidden {
-	  display: none;
-      }
+    }
+    .archive__item-excerpt .toBeHidden {
+	display: none;
     }
   }
 }
