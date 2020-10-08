@@ -151,6 +151,9 @@
     .archive__item-excerpt {
       display: block;
       font-size: $type-size-6;
+      .toBeHidden {
+	  visibility: hidden;
+      }
     }
   }
 }
