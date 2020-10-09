@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<figure style="width:33% display:inline-block" class="align-right">
+<figure style="width:33%" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/images/SM_vacuum_phase_diagram.png" style="display:inline-block" alt="">
   <figcaption style="text-align:center"><a href="https://arxiv.org/abs/1609.02503">arXiv:1609.02503, A.V. Bednyakov</a></figcaption>
 </figure>
