@@ -11,8 +11,7 @@ redirect_from:
 <figure style="width:33%" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/images/SM_vacuum_phase_diagram.png" alt="">
   <figcaption style="text-align:center"><a href="https://arxiv.org/abs/1609.02503">arXiv:1609.02503, A.V. Bednyakov</a></figcaption>
-</figure> 
-I am a postdoc at Carnegie Mellon University working to understand if the dynamics governing the particles and forces we enjoy today are stable or metastable.
+</figure>I am a postdoc at Carnegie Mellon University working to understand if the dynamics governing the particles and forces we enjoy today are stable or metastable.
 Everything from the structure of the periodic table to extended objects able to support themselves against the pull of gravity rely on the current vacuum value of the Higgs field.
 
 To the best of our experimental and theoretical precision, physics rests just over the edge of absolute stability.
@@ -28,8 +27,7 @@ The rate of such collisions provides a direct measurement of the form of the Hig
 <figure style="width:50%" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/images/272GeV.pdf" alt="">
   <figcaption style="text-align:center">A candidate Higgs boson pair event recorded by the ATLAS experiment on October 16, 2016. <a href="https://cds.cern.ch/record/2644551?ln=en">CERN-THESIS-2018-208</a></figcaption>
-</figure> 
-Such collisions almost always result in complicated shower of radiation and particles which presents a series of techincal challenges for reconstructing the collision process.
+</figure>Such collisions almost always result in complicated shower of radiation and particles which presents a series of techincal challenges for reconstructing the collision process.
 A measurement of the rate of Higgs boson pair production will further rely on a model of the expected background rate of collisions producing nearly identical final states through different processes.
 For such a measurement to be possible at the LHC methods will have to be developed to produce high dimensional models of such background processes and validate them at sub-percent level precision. 
 
