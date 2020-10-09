@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-<figure style="width:33%" class="align-right">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/SM_vacuum_phase_diagram.png" style="float:center" alt="">
+<figure style="width:33% display:inline-block" class="align-right">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/SM_vacuum_phase_diagram.png" style="display:inline-block" alt="">
   <figcaption style="text-align:center"><a href="https://arxiv.org/abs/1609.02503">arXiv:1609.02503, A.V. Bednyakov</a></figcaption>
 </figure>
 I am a postdoc at Carnegie Mellon University working to understand if the dynamics governing the particles and forces we enjoy today are stable or metastable.
