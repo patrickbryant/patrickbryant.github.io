@@ -132,11 +132,12 @@ body:hover .visually-hidden button {
   margin-top: 0em;
   margin-bottom: 0em;
   float: left;
+  margin-right: 1em;
 
-  @include breakpoint($small) {
-    float: left;
-    margin-right: 1em;
-  }
+  // @include breakpoint($small) {
+  //   float: left;
+  //   margin-right: 1em;
+  // }
 }
 
 /* image align right */
