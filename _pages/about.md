@@ -25,7 +25,7 @@ We perturb the Higgs field in the laboratory using high energy proton collisions
 In rare collisions we expect to dump enough energy (a few hundred times the proton rest mass energy) into the Higgs field and produce a pair of Higgs bosons.
 The rate of such collisions provides a direct measurement of the form of the Higgs field self interaction. 
 
-<figure style="width:33%" class="align-right">
+<figure style="width:33%" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/images/272GeV.pdf" alt="">
   <figcaption style="text-align:center">A candidate Higgs boson pair event recorded by the ATLAS experiment on October 16, 2016. <a href="https://cds.cern.ch/record/2644551?ln=en">CERN-THESIS-2018-208</a></figcaption>
 </figure> 
