@@ -8,9 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a postdoc at Carnegie Mellon University working to understand if the laws of physics we know and love are stable or if we might someday undergo vacuum decay.
-We probably won't know the answer to this question for at least several more years, perhaps decades, possibly never. It seems pretty important to me, so we might as well get started. 
+<figure style="width:33%" class="align-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/SM_vacuum_phase_diagram.png" alt="">
+  <figcaption>[arXiv:1609.02503, A.V. Bednyakov](https://arxiv.org/abs/1609.02503)</figcaption>
+</figure> 
+I am a postdoc at Carnegie Mellon University working to understand if the dynamics governing the particles and forces we enjoy today are stable or metastable.
+Everything from the structure of the periodic table to extended objects able to support themselves against the pull of gravity rely on the current vacuum value of the Higgs field.
+To the best of our experimental and theoretical precision, physics rests just over the boundary of absolute stability.
+Perhaps a few small errors or missing degrees of freedom are to blame.
+It is also possible our current physics was acquired dynamically in the early universe via unknown mechanisms and that these dynamics will resume in the far future.
 
-<img src='/images/ZH_HCR.pdf' width="100%" align="center">
 
 
