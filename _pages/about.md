@@ -26,7 +26,9 @@ In rare collisions we expect to dump enough energy (a few hundred times the prot
 The rate of such collisions provides a direct measurement of the form of the Higgs field self interaction. 
 
 Such collisions almost always result in complicated shower of radiation and particles which presents a series of techincal challenges for reconstructing the collision process.
-<img src='/images/272GeV.pdf' width="50%" style="float:left">
+<figure class="align-left" style="width:50%">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/272GeV.pdf" style="" alt="">
+</figure>
 A measurement of the rate of Higgs boson pair production will further rely on a model of the expected background rate of collisions producing nearly identical final states through different processes.
 For such a measurement to be possible at the LHC methods will have to be developed to produce high dimensional models of such background processes and validate them at sub-percent level precision. 
 
