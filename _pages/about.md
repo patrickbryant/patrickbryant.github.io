@@ -31,7 +31,7 @@ Such collisions almost always result in complicated shower of radiation and part
     <img src="{{ site.url }}{{ site.baseurl }}/images/272GeV.pdf" style="" alt="">
     <figcaption style="text-align:center">A candidate Higgs boson pair event recorded by the ATLAS experiment on October 16, 2016. <a href="https://cds.cern.ch/record/2644551?ln=en">CERN-THESIS-2018-208</a></figcaption>
   </figure>
-<\span>
+</span>
 A measurement of the rate of Higgs boson pair production will further rely on a model of the expected background rate of collisions producing nearly identical final states through different processes.
 For such a measurement to be possible at the LHC methods will have to be developed to produce high dimensional models of such background processes and validate them at sub-percent level precision. 
 
