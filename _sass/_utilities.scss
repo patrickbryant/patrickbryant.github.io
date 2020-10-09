@@ -129,8 +129,8 @@ body:hover .visually-hidden button {
   margin-left: auto;
   margin-right: auto;
   //vertical-align: top;
-  margin-top: -0.2em;
-  margin-bottom: -0.2em;
+  margin-top: -0.1em;
+  margin-bottom: -0.1em;
 
   @include breakpoint($small) {
     float: left;
@@ -145,8 +145,8 @@ body:hover .visually-hidden button {
   margin-left: auto;
   margin-right: auto;
   //vertical-align: top;
-  margin-top: -0.2em;
-  margin-bottom: -0.2em;
+  margin-top: -0.1em;
+  margin-bottom: -0.1em;
 
   @include breakpoint($small) {
     float: right;
