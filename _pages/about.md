@@ -26,7 +26,7 @@ In rare collisions we expect to dump enough energy (a few hundred times the prot
 The rate of such collisions provides a direct measurement of the form of the Higgs field self interaction. 
 
 Such collisions almost always result in complicated shower of radiation and particles which presents a series of techincal challenges for reconstructing the collision process.
-<figure style="width:50% float:left">
+<figure style="width:50%; float:left;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/272GeV.png" style="" alt="">
   <figcaption style="text-align:center">A candidate Higgs boson pair event recorded by the ATLAS experiment on October 16, 2016. <a href="https://cds.cern.ch/record/2644551?ln=en">CERN-THESIS-2018-208</a></figcaption>
 </figure>
