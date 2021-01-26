@@ -24,7 +24,7 @@ Humans are currently responsible for emitting around ten billion tons of carbon 
 Compared to the ongoing natural carbon cycle this sounds like a small effect. It is not.
 <figure class="center" style="width:100%">
   <img src="{{ site.url }}{{ site.baseurl }}/images/2021-01-26-renewables/carbonskyscraper.png" alt="">
-  <figcaption style="text-align:center">Change in atmospheric carbon dioxide over the last eight hundred thousand years. I've highlighted the period which ended the most recent ice age from about twenty to ten thousand years ago for a sense of what huge natural changes look like.
+  <figcaption style="text-align:left">Change in atmospheric carbon dioxide over the last eight hundred thousand years. I've highlighted the period which ended the most recent ice age from about twenty to ten thousand years ago for a sense of what huge natural changes look like.
   <br>
   <a href="https://www.washingtonpost.com/weather/2021/01/12/carbon-skyscraper-rapid-climate-change/">Washington Post, Benjamin Strauss, Scott Kulp, Climate Central</a></figcaption>
 </figure>
@@ -36,7 +36,7 @@ We have already failed to do this and are accepting ever growing risk as we drag
 
 <figure class="center" style="width:100%">
   <img src="{{ site.url }}{{ site.baseurl }}/images/2021-01-26-renewables/global-primary-energy.png" alt="">
-  <figcaption style="text-align:center">$100,000\,$TWh/year$/(365\times24) \,\approx\, 10\,$TW
+  <figcaption style="text-align:left">$100,000\,$TWh/year$/(365\times24) \,\approx\, 10\,$TW
   <br>
   <a href="https://ourworldindata.org/grapher/global-primary-energy?time=earliest..latest">Our World in Data</a></figcaption>
 </figure>
@@ -53,7 +53,7 @@ has a great explanation of why this will soon come about [here](https://noahpini
 The primary reason for hope are plots like this:
 <figure class="center" style="width:100%">
   <img src="{{ site.url }}{{ site.baseurl }}/images/2021-01-26-renewables/Solar-Costs-2010-2020-vs-Fossil-Fuel-Cost-Range.jpg" alt="">
-  <figcaption style="text-align:center">Over the last decade the price of utility scale solar power has dropped by 30-40% every time the installed capacity doubles.
+  <figcaption style="text-align:left">Over the last decade the price of utility scale solar power has dropped by 30-40% every time the installed capacity doubles.
   <br>
   <a href="https://rameznaam.com/2020/05/14/solars-future-is-insanely-cheap-2020/"><em>Solar's Future is Insanely Cheap</em> by Ramez Naam</a></figcaption>
 </figure>
