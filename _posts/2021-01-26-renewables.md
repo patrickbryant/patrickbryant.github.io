@@ -36,7 +36,7 @@ We have already failed to do this and are accepting ever growing risk as we drag
 
 <figure class="center" style="width:100%">
   <img src="{{ site.url }}{{ site.baseurl }}/images/2021-01-26-renewables/global-primary-energy.png" alt="">
-  <figcaption style="text-align:center">$100,000\,$TWh/year$/(365\times24)\approx 10\,$TW
+  <figcaption style="text-align:center">$100,000\,$TWh/year$/(365\times24) \,\approx\, 10\,$TW
   <br>
   <a href="https://ourworldindata.org/grapher/global-primary-energy?time=earliest..latest">Our World in Data</a></figcaption>
 </figure>
@@ -51,8 +51,8 @@ Noah Smith, an economist and writer for Bloomberg and himself at noahpinion.subs
 
 The primary reason for hope are plots like this:
 <figure class="center" style="width:100%">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/2021-01-26-renewables/Solar-Costs-Learning-Rate-2010-2020-Naam-2020-Analysis.jpg" alt="">
-  <figcaption style="text-align:center">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/2021-01-26-renewables/Solar-Costs-2010-2020-vs-Fossil-Fuel-Cost-Range.jpg" alt="">
+  <figcaption style="text-align:center">Over the last decade the price of utility scale solar power has dropped by 30-40% every time the installed capacity doubles.
   <br>
-  <a href="https://rameznaam.com/2020/05/14/solars-future-is-insanely-cheap-2020/">Ramez Naam</a></figcaption>
+  <a href="https://rameznaam.com/2020/05/14/solars-future-is-insanely-cheap-2020/"><em>Solar's Future is Insanely Cheap</em> by Ramez Naam</a></figcaption>
 </figure>
