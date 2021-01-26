@@ -47,7 +47,8 @@ to update the current dirty electrical grid and electrify transportation and ind
 Humanity is thus presented with the single largest investment and wealth generation opportunity in history.
 Picture a new industrial revolution driven by zero marginal cost renewable energy with
 [fixed costs less than the continued operation of existing fossil fuel plants](https://rameznaam.com/2020/05/14/solars-future-is-insanely-cheap-2020/).
-Noah Smith, an economist and writer for Bloomberg and himself at noahpinion.substack.com, has a great explanation of why this will soon come about [here](https://noahpinion.substack.com/p/answering-the-techno-pessimists-part-a3b).
+Noah Smith, an economist and writer for Bloomberg and himself on [substack](noahpinion.substack.com),
+has a great explanation of why this will soon come about [here](https://noahpinion.substack.com/p/answering-the-techno-pessimists-part-a3b).
 
 The primary reason for hope are plots like this:
 <figure class="center" style="width:100%">
@@ -56,3 +57,6 @@ The primary reason for hope are plots like this:
   <br>
   <a href="https://rameznaam.com/2020/05/14/solars-future-is-insanely-cheap-2020/"><em>Solar's Future is Insanely Cheap</em> by Ramez Naam</a></figcaption>
 </figure>
+Our future can be bright due to an effect known as [Wright's Law](https://en.wikipedia.org/wiki/Experience_curve_effects) which states that for most technologies,
+the cost per unit falls by a fixed percentage for every doubling of cumulative production.
+One of the primary functions of government is to subsidize the development and production of technologies until their unit prices are sufficiently low for market forces to take over.
