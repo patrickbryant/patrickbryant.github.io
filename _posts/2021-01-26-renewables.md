@@ -26,4 +26,5 @@ Compared to the ongoing natural carbon cycle this sounds like a small effect. It
   <img src="{{ site.url }}{{ site.baseurl }}/images/2021-01-26-renewables/carbonskyscraper.jpeg" alt="">
   <figcaption style="text-align:center"><a href="https://www.washingtonpost.com/weather/2021/01/12/carbon-skyscraper-rapid-climate-change/">Washington Post, Benjamin Strauss, Scott Kulp, Climate Central</a></figcaption>
 </figure>
-
+These natural exchanges of hundreds of billions of tons of carbon per year reached their current values after fine tuned adjustments which take tens of thousands of years.
+On this time scale the percent level addition of human activity to the carbon cycle is an enormous and unprecidencted discontinous jump. The end of the iceage is a tiny blip commpared to what we are doing.
