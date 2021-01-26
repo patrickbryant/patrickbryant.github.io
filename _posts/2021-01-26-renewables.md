@@ -60,3 +60,6 @@ The primary reason for hope are plots like this:
 Our future can be bright due to an effect known as [Wright's Law](https://en.wikipedia.org/wiki/Experience_curve_effects) which states that for most technologies,
 the cost per unit falls by a fixed percentage for every doubling of cumulative production.
 One of the primary functions of government is to subsidize the development and production of technologies until their unit prices are sufficiently low for market forces to take over.
+
+The Energy "Market"
+------
