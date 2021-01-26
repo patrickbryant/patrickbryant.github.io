@@ -36,9 +36,23 @@ We have already failed to do this and are accepting ever growing risk as we drag
 
 <figure class="center" style="width:100%">
   <img src="{{ site.url }}{{ site.baseurl }}/images/2021-01-26-renewables/global-primary-energy.png" alt="">
-  <figcaption style="text-align:center">The ten or so trillion kilograms of CO$_2$ produced annually by humanity corresponds to about ten trillion watts of power consumption.
-  We will need to install tens of trillions of watts of carbon neutral power over the next few decades
-  to update the current dirty electrical grid and electrify transportation and industrial processes which consume fossil fuels.
+  <figcaption style="text-align:center">$100,000\,$TWh/year$/(365\times24)\approx 10\,$TW
   <br>
   <a href="https://ourworldindata.org/grapher/global-primary-energy?time=earliest..latest">Our World in Data</a></figcaption>
+</figure>
+The ten or so trillion kilograms of CO$_2$ produced annually by humanity corresponds to about ten trillion watts of power consumption.
+We will need to install tens of trillions of watts of carbon neutral power generation and distribution over the next few decades
+to update the current dirty electrical grid and electrify transportation and industrial processes which consume fossil fuels.
+
+Humanity is thus presented with the single largest investment and wealth generation opportunity in history.
+Picture a new industrial revolution driven by zero marginal cost renewable energy with
+[fixed costs less than the continued operation of existing fossil fuel plants](https://rameznaam.com/2020/05/14/solars-future-is-insanely-cheap-2020/).
+Noah Smith, an economist and writer for Bloomberg and himself at noahpinion.substack.com, has a great explanation of why this will soon come about [here](https://noahpinion.substack.com/p/answering-the-techno-pessimists-part-a3b).
+
+The primary reason for hope are plots like this:
+<figure class="center" style="width:100%">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/2021-01-26-renewables/Solar-Costs-Learning-Rate-2010-2020-Naam-2020-Analysis.jpg" alt="">
+  <figcaption style="text-align:center">
+  <br>
+  <a href="https://rameznaam.com/2020/05/14/solars-future-is-insanely-cheap-2020/">Ramez Naam</a></figcaption>
 </figure>
