@@ -17,6 +17,9 @@ it is also your goal to avoid needlessly generating hundreds of millions of clim
 desparately trying to find higher ground, housing and economic opportunity among politically fragile, economically stressed countries --
 not to mention all the [strategically valuable bases threatened by rising sea levels and violent storms](https://assets.documentcloud.org/documents/5689153/DoD-Final-Climate-Report.pdf).
 
+**Work in Progress**
+
+
 The Scale of The Problem
 ------
 The amount of CO$_2$ in the atmosphere is set in a dynamic process of plants, ocean life and other chemical reactions constantly pumping out and absorbing hundreds of billions of tons of carbon per year.
@@ -50,7 +53,7 @@ Picture a new industrial revolution driven by zero marginal cost renewable energ
 Noah Smith, an economist and writer for Bloomberg and himself on [substack](noahpinion.substack.com),
 has a great explanation of why this will soon come about [here](https://noahpinion.substack.com/p/answering-the-techno-pessimists-part-a3b).
 
-The primary reason for hope are plots like this:
+The primary reasons for hope are plots like this:
 <figure class="center" style="width:100%">
   <img src="{{ site.url }}{{ site.baseurl }}/images/2021-01-26-renewables/Solar-Costs-2010-2020-vs-Fossil-Fuel-Cost-Range.jpg" alt="">
   <figcaption style="text-align:left">Over the last decade the price of utility scale solar power has dropped by 30-40% every time the installed capacity doubles.
@@ -61,5 +64,7 @@ Our future can be bright due to an effect known as [Wright's Law](https://en.wik
 the cost per unit falls by a fixed percentage every time cumulative production increases by a fixed factor (typically measured as a percent per doubling).
 One of the primary functions of government is to subsidize the development and production of technologies until their unit prices are sufficiently low for market forces to take over.
 
+
 The Energy "Market"
 ------
+The energy market is not a normal market. Depending on where you live, you likely have no choice in where to send your money in exchange for electricty.
