@@ -24,8 +24,21 @@ Humans are currently responsible for emitting around ten billion tons of carbon 
 Compared to the ongoing natural carbon cycle this sounds like a small effect. It is not.
 <figure class="center" style="width:100%">
   <img src="{{ site.url }}{{ site.baseurl }}/images/2021-01-26-renewables/carbonskyscraper.png" alt="">
-  <figcaption style="text-align:center">Change in atmospheric carbon dioxide over the last eight hundred thousand years. I've highlighted the period which ended the most recent ice age from about twenty to ten thousand years ago for a sense of what huge natural changes look like. <br>
+  <figcaption style="text-align:center">Change in atmospheric carbon dioxide over the last eight hundred thousand years. I've highlighted the period which ended the most recent ice age from about twenty to ten thousand years ago for a sense of what huge natural changes look like.
+  <br>
   <a href="https://www.washingtonpost.com/weather/2021/01/12/carbon-skyscraper-rapid-climate-change/">Washington Post, Benjamin Strauss, Scott Kulp, Climate Central</a></figcaption>
 </figure>
 The natural exchanges of hundreds of billions of tons of carbon per year reached today's values after fine tuning adjustments which take tens of thousands of years.
 On this time scale the percent level addition of human activity to the carbon cycle is an unprecedencted discontinous jump. The end of the iceage (10-20 thousand years ago) is a tiny blip commpared to what we are doing.
+
+Mitigating the threat multiplier of climate change requires droping the net carbon emissions of humanity to zero over the next decade.
+We have already failed to do this and are accepting ever growing risk as we drag our collective feet into the future.
+
+<figure class="center" style="width:100%">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/2021-01-26-renewables/global-primary-energy.png" alt="">
+  <figcaption style="text-align:center">The ten or so trillion kilograms of CO$_2$ produced annually by humanity corresponds to about ten trillion watts of power consumption.
+  We will need to install tens of trillions of watts of carbon neutral power over the next few decades
+  to update the current dirty electrical grid and electrify transportation and industrial processes which consume fossil fuels.
+  <br>
+  <a href="https://ourworldindata.org/grapher/global-primary-energy?time=earliest..latest">Our World in Data</a></figcaption>
+</figure>
