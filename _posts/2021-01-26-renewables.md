@@ -19,11 +19,11 @@ not to mention all the [strategically valuable bases threatened by rising sea le
 
 The Scale of The Problem
 ------
-<figure class="align-right" style="width:75%">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/2021-01-26-renewables/carbonskyscraper.jpeg" alt="">
-  <figcaption style="text-align:center"><a href="https://www.washingtonpost.com/weather/2021/01/12/carbon-skyscraper-rapid-climate-change/">Washington Post, Benjamin Strauss, Scott Kulp, Climate Central</a></figcaption>
-</figure>
 The amount of CO$_2$ in the atmosphere is set in a dynamic process of plants, ocean life and other chemical reactions constantly pumping out and absorbing hundreds of billions of tons of carbon per year.
 Humans are currently responsible for emitting on the order of ten billion tons of carbon per year.
 Compared to the ongoing natural carbon cycle this sounds like a small effect. It is not.
+<figure class="center" style="width:100%">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/2021-01-26-renewables/carbonskyscraper.jpeg" alt="">
+  <figcaption style="text-align:center"><a href="https://www.washingtonpost.com/weather/2021/01/12/carbon-skyscraper-rapid-climate-change/">Washington Post, Benjamin Strauss, Scott Kulp, Climate Central</a></figcaption>
+</figure>
 
