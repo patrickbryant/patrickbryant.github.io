@@ -11,7 +11,7 @@ tags:
 
 Climate change is the most serious existential threat facing humanity. Over the next few decades more frequent extreme weather events and
 increasing probability of zoogenic pandemics threaten to destabilize economies and governments around the world.
-Even the Pentagon recognizes the national security implications of climate change calling it a ["threat multiplier"](https://www.defense.gov/Explore/News/Article/Article/603440/hagel-to-address-threat-multiplier-of-climate-change/).
+Even the Pentagon recognizes the national security implications of climate change calling it a [*threat multiplier*](https://www.defense.gov/Explore/News/Article/Article/603440/hagel-to-address-threat-multiplier-of-climate-change/).
 If your goal is to have fewer violent extremists and rogue nations,
 it is also your goal to avoid needlessly generating hundreds of millions of climate refugees
 desparately trying to find higher ground, housing and economic opportunity among politically fragile, economically stressed countries --
@@ -58,7 +58,7 @@ The primary reason for hope are plots like this:
   <a href="https://rameznaam.com/2020/05/14/solars-future-is-insanely-cheap-2020/"><em>Solar's Future is Insanely Cheap</em> by Ramez Naam</a></figcaption>
 </figure>
 Our future can be bright due to an effect known as [Wright's Law](https://en.wikipedia.org/wiki/Experience_curve_effects) which states that for most technologies,
-the cost per unit falls by a fixed percentage for every doubling of cumulative production.
+the cost per unit falls by a fixed percentage every time cumulative production increases by a fixed factor (typically measured as a percent per doubling).
 One of the primary functions of government is to subsidize the development and production of technologies until their unit prices are sufficiently low for market forces to take over.
 
 The Energy "Market"
