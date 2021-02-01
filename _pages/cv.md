@@ -20,8 +20,8 @@ redirect_from:
 ## Post-Graduate Research
 
 As a postdoc at Carnegie Mellon University I have been focused on two primary projects which I outline here:
-* Data Analysis: I am one of the world's leading experts on high dimensional data-driven hadron collider background modeling. The goal of this work is to optimally extract information about the Higgs boson self-coupling from data taken at the Large Hadron Collider. This will require sub-percent level, high dimensional (from 16-D to more than 64-D) models of processes for which first principles simulation is intractible. Publications for statisticians and physicists are both in progress. Our model procedures make use of a custom deep neural network architecture implemented in PyTorch and [optimal transport methods](https://pythonot.github.io) to control systematic biases from phase space extrapolation of the neural network response. We evaluate the performance of the procedure prior to unblinding using signal suppressed synthetic datasets many times the statistical power of the real data. The synthetic datasets are derived with an improved implementation of [this](https://arxiv.org/abs/1712.02538) hemisphere mixing method. 
-* Hardware: CMU is one of five assembly centers responsible for the production of thousands of eight inch hexagonal silicon sensor modules for an upgrade to our experiment. To get ready for production, I helped build two new clean room facilities and have recieved training to operate automated wirebonders and robotic assembly gantries. The technical design report for the project is available [here](https://cds.cern.ch/record/2293646 "CDS 2293646") for the interested reader.
+* Data Analysis: I am one of the world's leading experts on high dimensional data-driven hadron collider background modeling. The goal of this work is to optimally extract information about the Higgs boson self-coupling from data taken at the Large Hadron Collider. This will require sub-percent level, high dimensional (from 16-D to more than 64-D) models of processes for which first principles simulation is intractable. Publications for statisticians and physicists are both in progress. Our model procedures make use of a custom deep neural network architecture implemented in PyTorch and [optimal transport methods](https://pythonot.github.io) to control systematic biases from phase space extrapolation of the neural network response. We evaluate the performance of the procedure prior to unblinding using signal suppressed synthetic data sets many times the statistical power of the real data. The synthetic data sets are derived with an improved implementation of [this](https://arxiv.org/abs/1712.02538) hemisphere mixing method. 
+* Hardware: CMU is one of five assembly centers responsible for the production of thousands of eight inch hexagonal silicon sensor modules for an upgrade to our experiment. To get ready for production, I helped build two new clean room facilities and have received training to operate automated wirebonders and robotic assembly gantries. The technical design report for the project is available [here](https://cds.cern.ch/record/2293646 "CDS 2293646") for the interested reader.
 
 
 ## Graduate Research
@@ -46,7 +46,7 @@ I performed a preliminary study on the use of neural networks for reweighting da
 ### SUSY 2017 Conference Speaker - December 2017
 The 25th International Conference on Supersymmetry and the Unification of Fundamental Interactions (SUSY17) brought approximately three hundred experimental and theoretical high energy physicists to the Tata Institute for Fundamental Research (TIFR) in Mumbai, India to discuss state of the art searches and theoretical progress for physics beyond the Standard Model of particle physics. I [presented](https://cds.cern.ch/record/2302584 "CDS 2302584") searches for HH and VH resonances on behalf of the ATLAS Collaboration. 
 
-### Developement and Integration of the Fast TracKer (FTK):
+### Development and Integration of the Fast TracKer (FTK):
 FTK is a highly parallelized system of custom hardware and firmware to reconstruct the tracks of charged particles for the ATLAS trigger system. I was instrumental in the design and development of the Auxiliary card (AUX) firmware as well as hardware testing and validation from early prototype stages to the final production. The AUX card performs the first stage of track fitting using 8 of the 12 layers of the inner detector and is a key performance driver of the whole system.
 
 * Firmware Design
@@ -56,7 +56,7 @@ FTK is a highly parallelized system of custom hardware and firmware to reconstru
 * Commissioning and Validation
   * Developed a suite of resting tools for bit level emulation and functional simulation of various firmware components.
   * A primary developer of AUX online monitoring software enabling rapid problem diagnosis and replication in simulation environments.
-  * Developed the board checkout and validation procedure for production and led several undegraduate and graduate students to qualify boards.
+  * Developed the board checkout and validation procedure for production and led several undergraduate and graduate students to qualify boards.
 * Integration with ATLAS
   * Lead AUX installation and integration with ATLAS. 
   * Advised two graduate students on firmware design, testing and integration at CERN. 
@@ -64,19 +64,19 @@ FTK is a highly parallelized system of custom hardware and firmware to reconstru
 ### Search for black hole production in the multijet final state
 * Worked on event selection optimization. 
 * One of the first 13 TeV results: [2015 LHCP conference note](https://cds.cern.ch/record/2048117 "CDS 2048117")
-* Paper on full 2015 dataset published in the [Journal of High Energy Physics](https://doi.org/10.1007/JHEP03(2016)026 "doi 10.1007").
+* Paper on full 2015 data set published in the [Journal of High Energy Physics](https://doi.org/10.1007/JHEP03(2016)026 "doi 10.1007").
 
 
 ## Undergraduate Research
 
 ### Feasibility study of Higgs spin measurement using the tau lepton pair decay channel
-I studied the feasibility of measuring the spin and polarization of the Z and Higgs bosons in single pion and leptonic tau decays at the LHC using only the visible decay angles. The study was peformed at truth level using events simulated with PYTHIA8.
+I studied the feasibility of measuring the spin and polarization of the Z and Higgs bosons in single pion and leptonic tau decays at the LHC using only the visible decay angles. The study was performed at truth level using events simulated with PYTHIA8.
 * Recovered the spin and polarization of the Higgs boson. 
 * Validated the analysis with Z boson events. 
 * Found that unfeasibly large statistics would be needed for a measurement at the LHC.
 
 ### International Linear Collider (ILC) beam energy monitor prototype testing
-The ILC beam energy could be measured by sending the beams downstream of the interaction point through a magnetic field and measuring the deflection. A single 64-anode PMT coupled to 64 fibers spaced out in an invar guide would allow for low cost precision beam deflection measurements.
+The ILC beam energy could be measured by sending the beams downstream of the interaction point through a magnetic field and measuring the deflection. A single 64-anode PMT coupled to 64 fibers spaced out in an Invar guide would allow for low cost precision beam deflection measurements.
 * Performed characterization of the multi-anode PMT response. 
 * Developed and automated linearity and cross-talk measurements. 
 
@@ -100,7 +100,7 @@ The ILC beam energy could be measured by sending the beams downstream of the int
 
 * Nathan Sugarman Award 2018
   * University of Chicago, Enrico Fermi Institute
-  * A cash prize awarded anually to two graduate students of the Enrico Fermi Institute.
+  * A cash prize awarded annually to two graduate students of the Enrico Fermi Institute.
   * "For his work in measuring the Higgs boson pair production cross section and his contributions to the new system of track reconstruction electronics for the ATLAS trigger."
 
 * Grainger Graduate Fellow 2017-2018
