@@ -104,6 +104,7 @@ The ILC beam energy could be measured by sending the beams downstream of the int
   * "For his work in measuring the Higgs boson pair production cross section and his contributions to the new system of track reconstruction electronics for the ATLAS trigger."
 
 * Grainger Graduate Fellow 2017-2018
+  * University of Chicago
   * A year long research fellowship awarded to two graduate students in the physics department per year.
 
 * Department Convocation Speaker 2013
