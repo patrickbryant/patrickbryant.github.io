@@ -54,7 +54,7 @@ FTK is a highly parallelized system of custom hardware and firmware to reconstru
   * Leader of FPGA resource usage and performance optimization. 
   * Developed customized firmware compilation scripts allowing for more consistent results and collaborative firmware versioning. 
 * Commissioning and Validation
-  * Developed a suite of resting tools for bit level emulation and functional simulation of various firmware components.
+  * Developed a suite of testing tools for bit level emulation and functional simulation of various firmware components.
   * A primary developer of AUX online monitoring software enabling rapid problem diagnosis and replication in simulation environments.
   * Developed the board checkout and validation procedure for production and led several undergraduate and graduate students to qualify boards.
 * Integration with ATLAS
