@@ -14,7 +14,7 @@ increasing probability of zoogenic pandemics threaten to destabilize economies a
 Even the Pentagon recognizes the national security implications of climate change calling it a [*threat multiplier*](https://www.defense.gov/Explore/News/Article/Article/603440/hagel-to-address-threat-multiplier-of-climate-change/).
 If your goal is to have fewer violent extremists and rogue nations,
 it is also your goal to avoid needlessly generating hundreds of millions of climate refugees
-desparately trying to find higher ground, housing and economic opportunity among politically fragile, economically stressed countries --
+desperately trying to find higher ground, housing and economic opportunity among politically fragile, economically stressed countries --
 not to mention all the [strategically valuable bases threatened by rising sea levels and violent storms](https://assets.documentcloud.org/documents/5689153/DoD-Final-Climate-Report.pdf).
 
 **Work in Progress**
@@ -32,9 +32,9 @@ Compared to the ongoing natural carbon cycle this sounds like a small effect. It
   <a href="https://www.washingtonpost.com/weather/2021/01/12/carbon-skyscraper-rapid-climate-change/">Washington Post, Benjamin Strauss, Scott Kulp, Climate Central</a></figcaption>
 </figure>
 The natural exchanges of hundreds of billions of tons of carbon per year reached today's values after fine tuning adjustments which take tens of thousands of years.
-On this time scale the percent level addition of human activity to the carbon cycle is an unprecedencted discontinous jump. The end of the iceage (10-20 thousand years ago) is a tiny blip commpared to what we are doing.
+On this time scale the percent level addition of human activity to the carbon cycle is an unprecedented discontinuous jump. The end of the ice age (10-20 thousand years ago) is a tiny blip compared to what we are doing.
 
-Mitigating the threat multiplier of climate change requires droping the net carbon emissions of humanity to zero over the next decade.
+Mitigating the threat multiplier of climate change requires dropping the net carbon emissions of humanity to zero over the next decade.
 We have already failed to do this and are accepting ever growing risk as we drag our collective feet into the future.
 
 <figure class="center" style="width:100%">
@@ -67,6 +67,6 @@ One of the primary functions of government is to subsidize the development and p
 
 The Energy "Market"
 ------
-The energy market is not a normal market. Depending on where you live, you likely have no choice in where to send your money in exchange for electricty.
+The energy market is not a normal market. Depending on where you live, you likely have no choice in where to send your money in exchange for electricity.
 
 **Work in Progress: This is where I will explain how utilities make money and why cap and trade makes less sense than renewable portfolio standards**
