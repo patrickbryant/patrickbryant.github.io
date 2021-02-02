@@ -23,7 +23,7 @@ not to mention all the [strategically valuable bases threatened by rising sea le
 The Scale of The Problem
 ------
 The amount of CO$_2$ in the atmosphere is set in a dynamic process of plants, ocean life and other chemical reactions constantly pumping out and absorbing hundreds of billions of tons of carbon per year.
-Humans are currently responsible for emitting around ten billion tons of carbon per year.
+Humans are currently responsible for emitting around forty billion tons of carbon per year.
 Compared to the ongoing natural carbon cycle this sounds like a small effect. It is not.
 <figure class="center" style="width:100%">
   <img src="{{ site.url }}{{ site.baseurl }}/images/2021-01-26-renewables/carbonskyscraper.png" alt="">
@@ -43,7 +43,7 @@ We have already failed to do this and are accepting ever growing risk as we drag
   <br>
   <a href="https://ourworldindata.org/grapher/global-primary-energy?time=earliest..latest">Our World in Data</a></figcaption>
 </figure>
-The ten or so trillion kilograms of CO$_2$ produced annually by humanity corresponds to about ten trillion watts of power consumption.
+The forty or so trillion kilograms of CO$_2$ produced annually by humanity corresponds to about ten trillion watts of power consumption.
 We will need to install tens of trillions of watts of carbon neutral power generation and distribution over the next few decades
 to update the current dirty electrical grid and electrify transportation and industrial processes which consume fossil fuels.
 
