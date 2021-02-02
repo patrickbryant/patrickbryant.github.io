@@ -68,3 +68,5 @@ One of the primary functions of government is to subsidize the development and p
 The Energy "Market"
 ------
 The energy market is not a normal market. Depending on where you live, you likely have no choice in where to send your money in exchange for electricty.
+
+**Work in Progress: This is where I will explain how utilities make money and why cap and trade makes less sense than renewable portfolio standards**
