@@ -12,7 +12,9 @@ redirect_from:
   <img src="{{ site.url }}{{ site.baseurl }}/images/SM_vacuum_phase_diagram.png" alt="">
   <figcaption style="text-align:center"><a href="https://arxiv.org/abs/1609.02503">arXiv:1609.02503, A.V. Bednyakov</a></figcaption>
 </figure>
-I am a postdoc at Carnegie Mellon University working to understand if the dynamics governing the particles and forces we enjoy today are stable or metastable.
+I am a AAAS Fellow at the Department of Energy. I will write more about that when I leave.
+In my previous career I was a particle physicist, most recently a postdoc at Carnegie Mellon University.
+I was working to understand if the dynamics governing the particles and forces we enjoy today are stable or metastable.
 Everything from the structure of the periodic table to extended objects able to support themselves against the pull of gravity rely on the current vacuum value of the Higgs field.
 
 To the best of our experimental and theoretical precision, physics rests just over the edge of absolute stability.

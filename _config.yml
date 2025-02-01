@@ -22,15 +22,11 @@ future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : # false (default), "disqus", "discourse", "staticman", "custom"
   disqus:
     shortname            :
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -58,11 +54,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &patrickbryant_
-# facebook:
-#   username               : patrick.e.bryant
-#   app_id                 :
-#   publisher              :
+  username               : 
 og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
@@ -83,16 +75,15 @@ analytics:
 author:
   name             : "Patrick Bryant Ph.D."
   avatar           : "profile_photo_square.png"
-  bio              : "Particle physicist specializing in high dimensional data driven modeling"
+  bio              : "AAAS Fellow at the U.S. Department of Energy"
   location         : "Pittsburgh, PA"
   employer         : "Carnegie Mellon University"
   email            : "patrickbryant@me.com"
-  facebook         : "patrick.e.bryant"
   github           : "patrickbryant"
   instagram        : "patrickbryant_"
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/patrick-e-bryant/"
   orcid            : "https://orcid.org/0000-0001-8145-6322"
-  twitter          : "patrickbryant_"
+  twitter          : 
   youtube          :
   wikipedia        :
 
@@ -235,7 +226,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
