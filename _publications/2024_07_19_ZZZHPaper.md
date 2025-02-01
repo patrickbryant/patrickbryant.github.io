@@ -11,4 +11,6 @@ doi: '10.1140/epjc/s10052-024-13021-z'
 
 This paper presents the first search for ZZ and ZH diboson production in the four b-jet final state. Observations of these processes will serve to validate future HH measurements in the bbbb channel. We developed an efficient low parameter count (1,061) neural network which is used for both signal extraction and background model construction. This network uses a ResNet inspired architecture for extracting kinematic information from the four b-tagged jets and a minimal transformer inspired architecture for processing features from an arbitrary size set of additional jets. Additionally we make use of a novel signal depleted synthetic dataset constructed from real data to validate the background model at percent level precision in the phase space where signal is expected.  
 
-<img src='/images/CMS-HIG-22-011_Figure_012.png' width="100%" align="center"> 
+<img src='/images/CMS-HIG-22-011_Figure_012.png' width="100%" align="center">
+
+<img src='/images/sketchHCR.pdf' width="100%" align="center"> 
