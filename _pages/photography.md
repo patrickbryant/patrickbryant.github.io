@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<figure class="align-right" style="width:80%">
+<figure class="align-center" style="width:80%">
   <img src="{{ site.url }}{{ site.baseurl }}/images/photography/brooke_psicobloc.jpg" alt="">
   <figcaption style="text-align:right">Brooke Raboutou jumping from the top of the 2024 North Face Psicobloc in Brooklyn.<br/>
   August 24, 2024.<br/>
