@@ -1,8 +1,10 @@
 ---
+layout: archive
 title: "Photography"
-excerpt: "Photography"
 permalink: /photography/
 author_profile: true
+redirect_from:
+  - /portfolio
 ---
 
 {% include base_path %}

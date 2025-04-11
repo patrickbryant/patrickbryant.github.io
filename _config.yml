@@ -152,6 +152,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  photography:
+    output: true
+    permalink: /photography/
   # portfolio:
   #   output: true
   #   permalink: /:collection/:path/
