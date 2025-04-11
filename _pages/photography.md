@@ -50,8 +50,8 @@ redirect_from:
 </figure>
 
 <figure class="align-center" style="width:90%">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/photography/griffith_to_telescope.jpg" alt="A sign reading "<- TO TELESCOPE" with the moon in the background. Griffith Observatory.">
-  <figcaption style="text-align:right">A sign reading "<- TO TELESCOPE" with the moon in the background. Griffith Observatory.<br/>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/photography/griffith_to_telescope.jpg" alt="A sign reading &quot;<- TO TELESCOPE&quot; with the moon in the background. Griffith Observatory.">
+  <figcaption style="text-align:right">A sign reading &quot;<- TO TELESCOPE&quot; with the moon in the background. Griffith Observatory.<br/>
   October 12, 2024.<br/>
   📷[a7RIV, Voigtlander 35mm]<br/>
   ☀️[35mm/11, 1/80s, ISO 125]</figcaption>
