@@ -65,3 +65,10 @@ redirect_from:
   ☀️[20mm/11, 30s, ISO 100, ND 10000]</figcaption>
 </figure>
 
+<figure class="align-center" style="width:90%">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/photography/locks_schenley_bridge.jpg" alt="">
+  <figcaption style="text-align:right">A pair of locks, green and red, among many attached to the fence along the Schenley Bridge.<br/>
+  April 3, 2023.<br/>
+  📷[a7RII, Viltrox 85mm]<br/>
+  ☀️[85mm/1.8, 1/2000s, ISO 100]</figcaption>
+</figure>
