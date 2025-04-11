@@ -96,3 +96,11 @@ redirect_from:
   📷[a7RII, Tamron 28-75mm]<br/>
   ☀️[28mm/3.5, 1/125s, ISO 500]</figcaption>
 </figure>
+
+<figure class="align-center" style="width:90%">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/photography/sam_julia_engagement.jpg" alt="Julia in shock realizing Sam is proposing.">
+  <figcaption style="text-align:right">Julia in shock realizing Sam is proposing.<br/>
+  February 11, 2023.<br/>
+  📷[a7RII, Sony 135mm]<br/>
+  ☀️[135mm/1.8, 1/640s, ISO 100]</figcaption>
+</figure>
