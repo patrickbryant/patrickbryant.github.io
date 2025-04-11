@@ -13,7 +13,7 @@ redirect_from:
   <img src="{{ site.url }}{{ site.baseurl }}/images/photography/brooke_psicobloc.jpg" alt="">
   <figcaption style="text-align:right">Brooke Raboutou jumping from the top of the 2024 North Face Psicobloc in Brooklyn.<br/>
   August 24, 2024.<br/>
-  :camera:[a7RIV, Samyang 35-150mm]<br/>
+  &#128247;[a7RIV, Samyang 35-150mm]<br/>
   :sunny:[150mm/4, 1/320s, ISO 100]</figcaption>
 </figure>
 
