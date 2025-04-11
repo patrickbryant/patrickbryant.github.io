@@ -72,3 +72,12 @@ redirect_from:
   📷[a7RII, Viltrox 85mm]<br/>
   ☀️[85mm/1.8, 1/2000s, ISO 100]</figcaption>
 </figure>
+
+<figure class="align-center" style="width:90%">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/photography/paulina_zion.jpg" alt="Paulina rappelling in Zion.">
+  <figcaption style="text-align:right">Paulina rappelling in Zion.<br/>
+  October 26, 2022.<br/>
+  📷[a7RII, Tamron 28-75mm]<br/>
+  ☀️[28mm/2.8, 1/60s, ISO 3200]</figcaption>
+</figure>
+
