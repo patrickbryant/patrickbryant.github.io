@@ -57,3 +57,11 @@ redirect_from:
   ☀️[35mm/11, 1/80s, ISO 125]</figcaption>
 </figure>
 
+<figure class="align-center" style="width:90%">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/photography/hot_metal_bridge.jpg" alt="">
+  <figcaption style="text-align:right">A view of the Pittsburgh skyline at dusk from the Hot Metal Bridge.<br/>
+  October 12, 2024.<br/>
+  📷[a7RIV, Sigma 20mm]<br/>
+  ☀️[20mm/11, 30s, ISO 100, ND 10000]</figcaption>
+</figure>
+
