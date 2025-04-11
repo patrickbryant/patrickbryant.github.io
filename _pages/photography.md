@@ -17,12 +17,12 @@ redirect_from:
   [150mm/4, 1/320s, ISO 100]</figcaption>
 </figure>
 
-# <figure class="align-center" style="width:80%">
-#   <img src="{{ site.url }}{{ site.baseurl }}/images/photography/bus_lift_pano.jpg" alt="">
-#   <figcaption style="text-align:right">A bendy bus being lifted by a crane in the cleanup of the Fern Hollow Bridge Collapse. A five photo composite panorama.<br/>
-#   January 31, 2022.<br/>
-#   [a7RII, Viltrox 85mm]<br/>
-#   [85mm/1.8, 1/250s, ISO 100]</figcaption>
-# </figure>
+<figure class="align-center" style="width:80%">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/photography/bus_lift_pano.jpg" alt="">
+  <figcaption style="text-align:right">A bendy bus being lifted by a crane in the cleanup of the Fern Hollow Bridge Collapse. A five photo composite panorama.<br/>
+  January 31, 2022.<br/>
+  [a7RII, Viltrox 85mm]<br/>
+  [85mm/1.8, 1/250s, ISO 100]</figcaption>
+</figure>
 
 
