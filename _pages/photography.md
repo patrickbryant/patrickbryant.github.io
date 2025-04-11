@@ -49,3 +49,11 @@ redirect_from:
   ☀️[150mm/2.8, 1/2500s, ISO 100]</figcaption>
 </figure>
 
+<figure class="align-center" style="width:90%">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/photography/griffith_to_telescope.jpg" alt="">
+  <figcaption style="text-align:right">A sign reading "<- TO TELESCOPE" with the moon in the background. Griffith Observatory.<br/>
+  October 12, 2024.<br/>
+  📷[a7RIV, Voigtlander 35mm]<br/>
+  ☀️[35mm/11, 1/80s, ISO 125]</figcaption>
+</figure>
+
