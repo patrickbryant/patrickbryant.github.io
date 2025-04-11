@@ -1,11 +1,8 @@
 ---
-permalink: /
 title: "Photography"
 excerpt: "Photography"
+permalink: /publications/
 author_profile: true
-redirect_from: 
-  - /photography/
-  - /photography.html
 ---
 
 <figure class="align-center" style="width:80%">
