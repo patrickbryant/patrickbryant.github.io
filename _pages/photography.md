@@ -1,7 +1,7 @@
 ---
 title: "Photography"
 excerpt: "Photography"
-permalink: /publications/
+permalink: /photography/
 author_profile: true
 ---
 
