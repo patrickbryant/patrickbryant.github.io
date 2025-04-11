@@ -25,4 +25,12 @@ redirect_from:
   ☀️[85mm/1.8, 1/250s, ISO 100]</figcaption>
 </figure>
 
+<figure class="align-center" style="width:90%">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/photography/cherry_blossoms_long_exposure.jpg" alt="">
+  <figcaption style="text-align:right">A ghostly couple looking out over the tidal basin at peak cherry blossom.<br/>
+  March 21, 2024.<br/>
+  📷[a7RIV, Samyang 35-150mm]<br/>
+  ☀️[81mm/5, 30s, ISO 100, ND 10,000]</figcaption>
+</figure>
+
 
