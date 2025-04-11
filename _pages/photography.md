@@ -88,3 +88,11 @@ redirect_from:
   📷[a7RIV, Samyang 35-150mm]<br/>
   ☀️[35mm/9, 1/100s, ISO 100]</figcaption>
 </figure>
+
+<figure class="align-center" style="width:90%">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/photography/wonjae_coopers.jpg" alt="Wonjae falling from a boulder at Coopers Rock.">
+  <figcaption style="text-align:right">Wonjae falling from a boulder at Coopers Rock.<br/>
+  July 16, 2022.<br/>
+  📷[a7RII, Tamron 28-75mm]<br/>
+  ☀️[28mm/3.5, 1/125s, ISO 500]</figcaption>
+</figure>
