@@ -1,7 +1,7 @@
 ---
 title: "Search for ZZ and ZH production in the bbbb final state using proton-proton collisions at √s = 13 TeV"
 collection: publications
-permalink: /publication/2020-07-19-ZZZHPaper
+permalink: /publication/2024-07-19-ZZZHPaper
 excerpt: 'This paper presents the first search for ZZ and ZH diboson production in the four b-jet final state. These processes will be absolutely critical to any future HH measurement in the bbbb channel as well understood standard candles.'
 date: 2024-07-19
 venue: 'EPJ-C'
