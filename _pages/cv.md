@@ -124,3 +124,6 @@ The ILC beam energy could be measured by sending the beams downstream of the int
 * Clarence and Lucille Dunbar Scholarship 2012-2013
   * University of Oregon, College of Arts and Sciences
   * Awarded to high achieving undergraduate or graduate students in physical or behavioral sciences.
+
+
+## [Publications](https://www.patrickbryant.page/publications/)
