@@ -10,16 +10,16 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* Ph.D in Particle Physics, University of Chicago, 2013 to 2018
+* MS and PhD in Particle Physics, University of Chicago, 2013 to 2018
   * Advisor: Melvin Shochet
-* M.S. in Physics, University of Chicago, 2013 to 2014
-* B.S. in Physics and Mathematics, University of Oregon, 2010 to 2013
+  * [Search for Pair Production of Higgs Bosons in the Four Bottom Quark Final State Using Proton-Proton Collisions at sqrt(s) = 13 TeV with the ATLAS Detector](https://cds.cern.ch/record/2644551?ln=en)
+* BS in Physics and Mathematics, University of Oregon, 2010 to 2013
   * Advisor: Eric Torrence
 
 
 ## Post-Graduate Research
 
-As a [postdoc at Carnegie Mellon University](https://www.cmu.edu/physics/people/researchers.html) (2018 to 2023) I have been focused on two primary projects which I outline here:
+As a [postdoc at Carnegie Mellon University](https://www.cmu.edu/physics/people/researchers.html) (2018 to 2023) I focused on two primary projects which I outline here:
 * Data Analysis: I am one of the world's leading experts on high dimensional data-driven hadron collider background modeling.
 The goal of this work is to optimally extract information about the Higgs boson self-coupling from data taken at the Large Hadron Collider.
 This will require sub-percent level, high dimensional (from 16-D to more than 64-D) models of processes for which first principles simulation is intractable.
