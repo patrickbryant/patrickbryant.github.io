@@ -81,7 +81,7 @@ author:
   email            : "patrickbryant@me.com"
   github           : "patrickbryant"
   instagram        : "patrickbryant_"
-  linkedin         : "https://www.linkedin.com/in/patrick-e-bryant/"
+  linkedin         : "patrick-e-bryant"
   orcid            : "https://orcid.org/0000-0001-8145-6322"
   twitter          : 
   youtube          :
@@ -152,9 +152,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  photography:
-    output: true
-    permalink: /photography/
+  # photography:
+  #   output: true
+  #   permalink: /photography/
   # portfolio:
   #   output: true
   #   permalink: /:collection/:path/
